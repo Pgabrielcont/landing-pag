@@ -1,0 +1,34 @@
+body {
+    height: calc(125vh - 150px);
+    background: no-repeat center/cover url('styles/fundo2.png');
+}
+
+center p {
+    color: #000000; 
+
+}
+
+center h1 {
+    color: #000000;
+}
+
+button {
+    border: 1px solid #ffffff;
+    padding: 8px 24px;
+    border-radius: 4px;
+    color: #ffffff;
+    background-color: transparent;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    border: 1px solid #ffffff;
+    background-color: #F09136;
+}
+
+ input {
+    border-radius: 5px;
+    border:none;
+    height: 30px;
+
+}
